@@ -1,0 +1,5 @@
+rootProject.name = 'api-design'
+include 'pastebin'
+include 'thrift-test'
+include 'tiny-url'
+
